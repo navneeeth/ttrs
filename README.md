@@ -1,0 +1,2 @@
+Twitter Trends Retrieval System is a web application that retrieves trends on Twitter for a given date and location. AngularJS is used for front-end and ExpressJS along with NodeJS hosts the back-end of the project. View screenshots for the application on run.
+Since the app utilizes API calls via RapidAPI to run and these API keys are removed, the app cannot be run on GitHub pages. Install the app on your system and register for a key through RapidAPI.
